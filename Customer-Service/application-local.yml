@@ -25,7 +25,7 @@ eureka:
 
 password:
   expiry:
-    days: 90
+    days: 120
     
 jwt:
   secret: secretKey
